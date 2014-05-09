@@ -1,18 +1,18 @@
 threex.cannonjs
 ===============
 
-```threex.cannonjs``` is a wrapper to ease access between
-[cannon.js](http://cannonjs.org/)
-and
-[three.js](http://threejs.org/).
+threex.cannonjs  is a [threex game extension for three.js](http://jeromeetienne.github.io/threex/). It provides realistic physics easy to include in your own games. So you can take object in your game and make them fall as if it was the real world! You can code a [pool game](http://en.wikipedia.org/wiki/Pool_\(cue_sports\)) in a day! You make rocks falls from the sky in a realistic fasion! Sky is the limit! 
+It is a warper over the excelent library [cannon.js](http://cannonjs.org/) physics library. It has been written by [Stefan Hedman](http://steffe.se/) or [@schteppe](https://twitter.com/schteppe) on twitter.
 
-There is a [domino demo live](http://jeromeetienne.github.io/threex/src/threex.cannonjs/examples/domino.html)
- and its 
-[source](https://github.com/jeromeetienne/threex/blob/master/src/threex.cannonjs/examples/domino.html).
-Here is the basic example 
-[live](http://jeromeetienne.github.io/threex/src/threex.cannonjs/examples/basic.html)
- and its 
-[source](https://github.com/jeromeetienne/threex/blob/master/src/threex.cannonjs/examples/basic.html).
+
+Show Don't Tell
+===============
+* [examples/basic.html](http://jeromeetienne.github.io/threex.sample/examples/basic.html)
+\[[view source](https://github.com/jeromeetienne/threex.sample/blob/master/examples/basic.html)\] :
+It shows this feature, and that one which is coded like that.
+* [examples/domino.html](http://jeromeetienne.github.io/threex.sample/examples/domino.html)
+\[[view source](https://github.com/jeromeetienne/threex.sample/blob/master/examples/domino.html)\] :
+It show dominos falling on each others like on tv :)
 
 How To Install It
 =================
@@ -36,8 +36,8 @@ then you add that in your html
 ```
 
 
-## how to use it
-
+How To Install it ?
+===================
 Init the physics world
 
 ```javascript
