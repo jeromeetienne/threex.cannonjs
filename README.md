@@ -7,11 +7,11 @@ It is a warper over the excelent library [cannon.js](http://cannonjs.org/) physi
 
 Show Don't Tell
 ===============
-* [examples/basic.html](http://jeromeetienne.github.io/threex.sample/examples/basic.html)
-\[[view source](https://github.com/jeromeetienne/threex.sample/blob/master/examples/basic.html)\] :
+* [examples/basic.html](http://jeromeetienne.github.io/threex.cannonjs/examples/basic.html)
+\[[view source](https://github.com/jeromeetienne/threex.cannonjs/blob/master/examples/basic.html)\] :
 It shows this feature, and that one which is coded like that.
-* [examples/domino.html](http://jeromeetienne.github.io/threex.sample/examples/domino.html)
-\[[view source](https://github.com/jeromeetienne/threex.sample/blob/master/examples/domino.html)\] :
+* [examples/domino.html](http://jeromeetienne.github.io/threex.cannonjs/examples/domino.html)
+\[[view source](https://github.com/jeromeetienne/threex.cannonjs/blob/master/examples/domino.html)\] :
 It show dominos falling on each others like on tv :)
 
 How To Install It
